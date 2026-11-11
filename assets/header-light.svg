@@ -29,6 +29,6 @@
 <text class="name" x="0" y="52" fill="#1f2328">did-i-commit</text>
 <text class="name" x="0" y="52" fill="url(#shine)">did-i-commit</text>
 </g>
-<rect class="bar" x="2" y="66" width="240" height="7" fill="#1a7f37"/>
+<rect class="bar" x="2" y="66" width="292" height="7" fill="#1a7f37"/>
 <text class="tag in d2" x="0" y="108" fill="#59636e">did you commit today? a tiny cli that knows.</text>
 </svg>
